@@ -1,6 +1,6 @@
 # Personalized News Feed - Laravel + Mysql + Docker
 
-This project is a personal news feed application built with Laravel, Mysql, and Docker. It allows users to filter news based on their preferences and provides a personalized experience.
+This project is a personalized news feed application built with Laravel, Mysql, and Docker. It allows users to filter news based on their preferences and provides a personalized experience.
 
 ## Running the Project
 
