@@ -17,3 +17,6 @@ This project is a personalized news feed application built with Laravel, Mysql, 
 6. php artisan migrate
 
 7. php artisan db: seed
+
+8. Check the db at: http://localhost:8080
+    (username:  root  password: root)
