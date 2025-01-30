@@ -14,7 +14,7 @@ This project is a personalized news feed application built with Laravel, Mysql, 
 
 5. Run composer install
 
-6. Run php artisan migrate
+6. Run php artisan migrate:fresh
 
 7. Run php artisan db:seed
 
