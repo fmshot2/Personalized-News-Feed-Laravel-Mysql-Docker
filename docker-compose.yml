@@ -44,8 +44,8 @@ services:
         environment:
             MYSQL_ROOT_PASSWORD: root
             MYSQL_DATABASE: personalnewsaggregrator
-            MYSQL_USER: root
-            MYSQL_PASSWORD: root
+            # MYSQL_USER: root
+            # MYSQL_PASSWORD: root
         networks:
             - app-network
         healthcheck:
