@@ -10,13 +10,16 @@ This project is a personalized news feed application built with Laravel, Mysql, 
 
 3. Run docker-compose up -d
 
-4. Run docker-compose exec app bash
+4. Run docker-compose exec -it php bash
 
-5. composer install
+5. Run composer install
 
-6. php artisan migrate
+6. Run php artisan migrate
 
-7. php artisan db: seed
+7. Run php artisan db:seed
 
 8. Check the db at: http://localhost:8080
     (username:  root  password: root)
+
+9. Check the project at: http://localhost:9900
+
